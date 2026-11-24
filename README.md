@@ -4,7 +4,7 @@
 Ashton Curtis
 
 ## GitHub Repository Link:
-[Paste your GitHub repository URL]
+https://github.com/LiverKingCurt/CMIT/tree/main
 
 ## Iteration 1
 
